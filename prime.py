@@ -4,6 +4,8 @@
   a = num % num
   if b ==num and a==0:
     print(num)
+    else:
+      print(not)
     
     
     
